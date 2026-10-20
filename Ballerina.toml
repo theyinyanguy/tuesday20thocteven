@@ -1,0 +1,3 @@
+[workspace]
+title = "Tuesday20thOctEven"
+packages = ["tuesday20thocteven"]

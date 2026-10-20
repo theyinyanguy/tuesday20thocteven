@@ -1,0 +1,10 @@
+[package]
+org = "puneetmakwana"
+name = "tuesday20thocteven"
+version = "0.1.0"
+distribution = "2201.14.0"
+title = "Tuesday20thOctEven"
+
+[build-options]
+sticky = true
+observabilityIncluded = true
